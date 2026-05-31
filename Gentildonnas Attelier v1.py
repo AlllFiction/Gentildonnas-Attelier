@@ -177,7 +177,7 @@ while resp != '0':
       print()
       print("#####  Sistema de gerenciamento e controle de fábrica de chapéus e bonés  ####")
       print("#####  Equipe de desenvolvimento:       ####")
-      print("#####  * Marcos Paulo   ####")
+      print("#####  * Marcos Paulo Florêncio da Silva  ####")
       print()
 
     elif resp == '0':
